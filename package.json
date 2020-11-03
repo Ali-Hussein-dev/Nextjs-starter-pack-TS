@@ -11,21 +11,17 @@
     "test:ci": "jest --ci"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "1.2.32",
-    "@fortawesome/free-brands-svg-icons": "5.15.1",
-    "@fortawesome/free-regular-svg-icons": "5.15.1",
-    "@fortawesome/free-solid-svg-icons": "5.15.1",
-    "@fortawesome/react-fontawesome": "0.1.11",
     "@testing-library/jest-dom": "5.11.4",
     "@testing-library/react": "11.1.0",
     "autoprefixer": "10.0.1",
     "axios": "0.20.0",
-    "next": "latest",
+    "next": "10.0.0",
     "postcss-flexbugs-fixes": "4.2.1",
     "postcss-import": "12.0.1",
     "postcss-preset-env": "6.7.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-icons": "3.11.0"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "3.0.0",

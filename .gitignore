@@ -32,3 +32,11 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+.history
+# .vscode
+.env
+.env.local
+buglist
+todo-list
+package-lock.json
